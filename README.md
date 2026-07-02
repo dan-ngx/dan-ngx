@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Đức Anh Nguyễn, but you can call me Dan. My base knowledge is in language, culture, and design, and I'm trying to broaden it with tech. I'm only a beginner in this field and hoping to be able to learn more in the future. Interested in AIs, data and how tech can benefits lives. 
+I'm Đức Anh Nguyễn, but you can call me Dan. My base knowledge is in language, culture, and design, and I'm trying to broaden it with tech. I'm only a beginner in this field and hoping to be able to learn more in the future. Interested in AI, data and how tech can benefits people's lives in general. 
 
 Hope you all have a nice day!
 
